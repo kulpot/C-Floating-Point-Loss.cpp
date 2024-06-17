@@ -6,5 +6,5 @@ using std::endl;
 
 void main()
 {
-
+	float big = 1000000000000000000000000000.0;
 }
