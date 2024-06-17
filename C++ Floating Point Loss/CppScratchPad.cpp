@@ -10,4 +10,5 @@ void main()
 	float small = 0.0000000000000000000000000001;
 	cout << big << endl;		//1e+27
 	cout << small << endl;		//1e-28
+	float result = big + small;
 }
