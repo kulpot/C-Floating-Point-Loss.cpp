@@ -9,5 +9,5 @@ void main()
 	float big =   1000000000000000000000000000.0;
 	float small = 0.0000000000000000000000000001;
 	cout << big << endl;		//1e+27
-	cout << small << endl;
+	cout << small << endl;		//1e-28
 }
