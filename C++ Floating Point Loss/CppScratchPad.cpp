@@ -12,4 +12,5 @@ void main()
 	cout << small << endl;		//1e-28
 	float result = big + small;
 	cout << result << endl;		//1e+27
+	cout << (big == result) << endl;
 }
